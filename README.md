@@ -12,6 +12,4 @@ Magic Ball - консольная игра, в которой вы можете 
 
 <pre><code>ruby magic_ball.rb</code></pre>
 
-`ruby magic_ball.rb`
-
 ruby version: 3.0
